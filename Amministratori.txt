@@ -1,0 +1,14 @@
+public class Amministratori {
+    
+private Amministratore Amministratori [];
+
+public Amministratori (Amministratore Amministratori []){
+    setAlunni(Amministratori );
+}
+public void setAmministratori(Amministratore Amministratori []){
+    this.Amministratori =Amministratori ;
+}
+public Amministratore[] getAmministratori(){
+    return Amministratori ;
+}
+}
